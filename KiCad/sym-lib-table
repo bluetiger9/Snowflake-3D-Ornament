@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "badgelife_shitty_connector")(type "Legacy")(uri "/home/bluetiger/dev/KiCAD/libs/badgelife_shitty_connector.lib")(options "")(descr ""))
+  (lib (name "BLE-NFC-Badge-rescue")(type "KiCad")(uri "${KIPRJMOD}/BLE-NFC-Badge-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "Snowflake-Ornament-rescue")(type "KiCad")(uri "${KIPRJMOD}/Snowflake-Ornament-rescue.kicad_sym")(options "")(descr ""))
+)

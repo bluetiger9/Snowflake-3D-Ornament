@@ -1,0 +1,273 @@
+(footprint "LED_Kingbright_AAA3528ESGCT"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Kingbright, dual LED, 3.5 x 2.8 mm Surface Mount LED Lamp (http://www.kingbrightusa.com/images/catalog/SPEC/AAA3528ESGCT.pdf)")
+	(tags "dual led smd")
+	(property "Reference" "D3"
+		(at -0.05 0.075 90)
+		(layer "F.SilkS")
+		(uuid "bb529f81-57a4-46d5-a8cc-75b37372163a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LED_ARGB"
+		(at 0 2.5 0)
+		(layer "F.Fab")
+		(uuid "c66be571-ee7b-4587-a3ac-cf6d00e90f5f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "LED_SMD:LED_Kingbright_AAA3528ESGCT"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b683e634-79b5-4a42-80ea-1235b5bb74a1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "87a9b34f-86f5-4794-80d6-04b1b938c64e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ac91c66d-bfdc-4155-a367-89153f731be0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2 -1.510001)
+		(end 1.71 -1.510001)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "60f05122-853b-483b-9831-4046981d449a")
+	)
+	(fp_line
+		(start -1.71 -0.095001)
+		(end -1.71 0.095001)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "34568717-eec2-4b8b-8a5e-c56281d20fa0")
+	)
+	(fp_line
+		(start -1.71 1.354999)
+		(end -1.71 1.510001)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "35622396-9ecd-496c-9252-4b154bfb57ac")
+	)
+	(fp_line
+		(start -1.71 1.510001)
+		(end 1.71 1.510001)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "86f9d5e3-d806-4604-b8ca-138663f79bac")
+	)
+	(fp_line
+		(start 1.709999 1.355)
+		(end 1.71 1.510001)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9a2bd5e6-f5a0-432b-b8f1-5fd5c5033edd")
+	)
+	(fp_line
+		(start 1.71 -1.354999)
+		(end 1.71 -1.510001)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2f39c02e-0e77-4bc5-a821-0f0c3a1d3352")
+	)
+	(fp_line
+		(start 1.71 -0.095001)
+		(end 1.71 0.095001)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "68827ae1-eda7-4b62-8519-156c7fc227da")
+	)
+	(fp_line
+		(start -2.25 -1.65)
+		(end -2.25 1.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9f4d7921-5de8-40f4-a582-af0943d8b654")
+	)
+	(fp_line
+		(start -2.25 -1.65)
+		(end 2.25 -1.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "044fc19f-71e8-4f49-8951-d75e4e343cfe")
+	)
+	(fp_line
+		(start -2.25 1.65)
+		(end 2.25 1.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0e02376c-8b9f-4eeb-839d-ef4bb35bff53")
+	)
+	(fp_line
+		(start 2.25 -1.65)
+		(end 2.25 1.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "200c408f-6c0e-4bd2-9ee8-5863ba72bff0")
+	)
+	(fp_line
+		(start -1.599999 1.4)
+		(end -1.6 -0.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f50098fd-f90d-4753-8366-58f6639ff82b")
+	)
+	(fp_line
+		(start -0.9 -1.4)
+		(end -1.6 -0.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fa7b8478-e3cf-4704-9e8a-1b0a199dd78c")
+	)
+	(fp_line
+		(start -0.9 -1.4)
+		(end 1.599999 -1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "221eeab6-cc42-4c49-9810-704fba06f3a2")
+	)
+	(fp_line
+		(start 1.599999 -1.4)
+		(end 1.599999 1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "eb3c7765-b6bc-41a9-9a54-0e2c433978aa")
+	)
+	(fp_line
+		(start 1.599999 1.4)
+		(end -1.599999 1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a78f2e1a-e284-491f-a294-01ea61e67b7d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "5b59b5d8-8e44-4ea1-ad94-6be8c4ecd613")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.13)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.400001 -0.725)
+		(size 1.2 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e56f04e3-7702-4de1-bf5d-fe062fafc5fe")
+	)
+	(pad "2" smd rect
+		(at 1.4 -0.725001)
+		(size 1.2 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "9e7838c6-077b-41bd-8f72-6bea272d743f")
+	)
+	(pad "3" smd rect
+		(at 1.400001 0.725)
+		(size 1.2 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "62989ade-da38-41ce-a5bf-b9a03080e6e3")
+	)
+	(pad "4" smd rect
+		(at -1.4 0.725001)
+		(size 1.2 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "231615c8-a689-4a15-ac14-a5d86218e80e")
+	)
+	(model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_Kingbright_AAA3528ESGCT.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
